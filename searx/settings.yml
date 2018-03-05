@@ -469,7 +469,7 @@ engines:
   - name : piratebay
     engine : piratebay
     shortcut : tpb
-    url: https://pirateproxy.red/
+    url: https://tpbbay.eu/
     timeout : 3.0
 
   - name : pubmed
